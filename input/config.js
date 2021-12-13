@@ -123,7 +123,7 @@ const height = 2048;
 // description for NFT in metadata file
 const description = "Class of 3033";
 // base url in case no unique metadata file i.e IPFS
-const baseImageUri = "https://kbeuvucrbo0g.usemoralis.com:2053/server";
+const baseImageUri = "https://vuwfqqjbyrja.usemoralis.com:2053/server";
 // id for edition to start from
 const startEditionFrom = 1;
 // amount of NFTs to generate in edition
